@@ -94,18 +94,15 @@ Our testing is limited by the sample size, however our sample included 3 new dev
 ## Supplementary Data
 ### Table S1: Inspiratory flow resistance by individual BVM samples
 ![Table S1](https://i.imgur.com/9CY1Rs1.png "Supplementary Table 1a. Inspiratory flow resistance change with blockage of the BVM expiratory port. Results for individual samples.")
-
 ***Supplementary Table 1a.** Inspiratory flow resistance change with blockage of the BVM expiratory port. Results for individual samples.*
 
 ### Set-up
-![Figure S1](https://i.imgur.com/8IUJ9XM.jpg =x350)
-
+![Figure S1](https://i.imgur.com/8IUJ9XM.jpg)
 ***Figure S1.** Inspiratory Resistance Set-up*
 
-![Figure S2a](https://i.imgur.com/dLKpkmu.jpg =x300)
-![Figure S2b](https://i.imgur.com/u93OEqB.jpg =x300) 
-![Figure S2C](https://i.imgur.com/4sS4KaY.jpg =x300)
-
+![Figure S2a](https://i.imgur.com/dLKpkmu.jpg )
+![Figure S2b](https://i.imgur.com/u93OEqB.jpg ) 
+![Figure S2C](https://i.imgur.com/4sS4KaY.jpg )
 ***Figure S2.** Set-up for measuring expiratory leak flow in CARE-BVM devices*
 
 ## Authors
