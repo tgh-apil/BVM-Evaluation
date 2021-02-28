@@ -1,7 +1,7 @@
 # Bag-Valve-Mask (BVM) Device Testing
 Evaluation of the valve mechanisms in common brands of bag-valve-mask devices in clinical use
 
-Full report at: https://hackmd.io/@bag-valve-test/BJU82dW2P
+[Full report](https://hackmd.io/@bag-valve-test/BJU82dW2P)
 
 ## Abstract
 **Background** Bag-valve-mask (BVM) devices are critical equipment in acute care, and are used routinely during resuscitation, in operating rooms and intensive care units and during patient transport among numerous other settings. Unanticipated findings during an unrelated experiment involving BVMs suggested significant variations in the inspiratory resistance across different models and, more concerning, repeated failure of the valves in one brand in use at our hospital. 
