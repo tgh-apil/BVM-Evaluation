@@ -114,3 +114,6 @@ Rehabilitation Science Institute, University of Toronto; Research Assistant, Lyn
 
 Kate Kazlovich, PhD Candidate, 
 Institute of Biomaterials and Biomedical Engineering, University of Toronto; Research Assistant, Lynn and Arnold Irwin Advanced Perioperative Imaging Lab, Toronto General Hospital, University Health Network, Toronto, ON
+
+## Competing Interests
+None.
