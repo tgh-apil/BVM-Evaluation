@@ -14,7 +14,8 @@ Reports & Revisions:
 * Original report: February 22, 2021. 
 * [February 28, 2021](https://hackmd.io/@bag-valve-test/SJQGltAMd).
 * [March 3, 2021](https://hackmd.io/@bag-valve-test/HJOq0eVQu) Incorporating corrections from Carestream related to ISO standard
-* **March 8, 2021 (current)** 
+* [March 8, 2021](https://hackmd.io/@bag-valve-test/BJU82dW2P) Minor edits
+* [April 6, 2021] **(Current) Abstract Updated **
 
 Kate Kazlovic, Vahid Anwari, Azad Mashari MD, 
 Department of Anesthesia and Pain Management, Toronto General Hospital
@@ -22,18 +23,17 @@ Department of Anesthesia and Pain Management, Toronto General Hospital
 [TOC]
 
 ## Abstract
-**Background** Bag-valve-mask (BVM) devices, also known as manual resuscitators, are critical equipment in acute care, and are used routinely for short term manual ventilation as well as for pre-oxygenation prior to short procedures (such as ECT) or endotracheal intubation and initiation of mechanical ventilation. Unanticipated results during an unrelated experiment raise concerns regarding the performance of BVM models in use at our center.
+**Background**: Bag-valve-mask (BVM) manual resuscitators are critical equipment in acute care, used for short-term manual ventilation and for pre-oxygenation prior to short procedures or endotracheal intubation. Anecdotal clinical experience suggested significant variability in performance during spontaneous ventilation.
+**Objectives**: Based on unexpected finding of highly variable inspiratory resistance in BVMs during testing of another device, we sought to formally evaluate inspiratory resistance and competence of the inspiratory/expiratory control valve during simulated spontaneous negative-pressure inspiration
+(NPI). Three common models were tested: Ambu Bag Spur II, CAREstream CARE-BVM, and Laerdal LSR.
+**Methods**: Inspiratory flow and associated pressure drops were measured with expiratory ports either open or blocked. If the valve is competent inspiratory resistance should be unaffected by expiratory port obstruction. 
+Testing was consistent with procedures outlined in CSA-Z10651-4-08 (R2018): Lung ventilators — Part 4: Particular requirements for operator-powered resuscitators, section A.4.8 (CSA revision of ISO 10651-4:2002) with the addition of the blocked expiratory port condition that is not included in the standard.
+**Results**: All three samples of the CARE-BVM showed showed consistent and significant increases in inspiratory resistance with expiratory port blocked (pressure drops 7.8 (0.72) cm H2O at 50 L/min). This suggested significant entrainment of air from the expiratory port during NPI. We then measured
+expiratory port flow during inspiration. At 50 L/min, 43-74% of inspiratory gas was entrained air from the expiratory port. This corresponds to a calculated delivered oxygen fraction of 40-60%. All samples of LSR and Spur II showed anticipated behavior with no effect of expiratory blockage on inspiratory resistance. However, some samples had inspiratory pressure drops up to 10% above the limit of 5 cmH2sub>O prescribed by CSA/ISO.
+**Conclusion**: The performance of CARE-BVM deviates significantly from common clinical expectations. However, the technical standard (ISO/CSA-Z 10651-4-08) applied by regulators does not explicitly mandate competence of the patient valve and requires delivery of only 35% oxygen at a line flow of
+15 L/min, with the ability to increase this to 85% with the addition of a reservoir. The CARE-BVM therefore meets the requirements for inspiratory resistance and oxygen provision as explicitly stated in the standard. **Performance of BVMs for spontaneously ventilating patients is critically variable across models and is not well defined by current standards.** Providers who intend to use BVMs for pre-oxygenation of spontaneously ventilating patients should exercise caution and evaluate the capabilities of the specific device at hand.
 
-**Methods** We evaluated inspiratory resistance and competence of the inspiratory/expiratory valve systems in 3 models of BVM available at our hospital (3 samples/model). Inspiratory flow and resistance were measured with expiratory ports open vs. blocked. If device valves are competent the state of the expiratory port should have no impact on inspiratory flow resistance. Testing was consistent with procedure outlined in CSA-Z10651-4-08 (R2018): Lung ventilators — Part 4: Particular requirements for operator-powered resuscitators, section A.4.8 (CSA revision of ISO 10651-4:2002), with the addition of testing under blocked expiratory port condition that is not included in the CSA/ISO standard.
-
-**Results** All samples from two models (Laerdal LSR, Ambu Spur II) showed anticipated behaviour with no effect of expiratory port blockage on inspiratory flow and resistance, though several of the samples from these two models had inspiratory pressure drops that measured as much as 10% above the maximal limit of 5 cm H~2~O prescribed by CSA-Z10651-4-08(R2018). 
-
-All three samples of the third model, CARE-BVM showed lower values of inspiratory pressure drop [mean(SD)= 3.0(0.26) cm H~2~O], but showed consistent and significant increases in inspiratory resistance when the expiratory port was blocked, with pressure drops of 7.8(0.72) cm H~2~O, significantly exceeding the 5 cm H~2~0 limit. This suggests significant entrainment of outside air during negative pressure inspiration, via a leaking expiratory valve. To confirm this we directly measured entrained air flow from the expiratory port. At 50 L/min of inspiratory flow **43-74% of inspiratory gas consisted of room air from the expiratory valve** instead of flowing through the self-inflating reservoir of the BVM. This corresponds to a calculated **delivered oxygen fraction of 40-60%** assuming a perfect face seal and 100% oxygen flow from the BVM reservoir. 
-
-**Conclusion** Our results raise a significant safety concern regarding the performance of CARE-BVM devices in spontaneously breathing patients suggesting that these patients may often be receiving a significantly lower concentration of oxygen than assumed by care providers. However, the technical standard (ISO/CSA-Z 10651-4-08) required by Health Canada and FDA does not explicitly mandate competence of the valves and only requires delivery of 35% oxygen at an external flow 15 L/min of oxygen flow into the device, meaning that the CARE-BVM devices appears to meet the explicit requirements regarding inspiratory resistance and oxygen provision. 
-**There is significant inconsistency between clinician expectations, device performance and regulatory requirements for BVM devices**.
-
-## Background
+## Introduction
 Bag-valve-mask (BVM) devices are critical pieces in the respiratory support armament of modern health care, providing high concentration oxygen and potentially ventilatory support across a range of acute and intensive care settings. The ingenious combination of valves and reservoir chambers in BVMs allows them to 1) function with or without a pressurized gas source and 2) efficiently provide concentrations of inspired oxygen approaching 100% using low to moderate unpressurized gas flows.
 
 During the COVID-19 pandemic and especially during the acute ventilator shortages of the first wave, the availability and versatility of BVMs led them to become the cornerstone of numerous strategies to provide invasive and non-invasive respiratory support for patients unable to access regular ventilators. The majority of emergency use ventilator initiatives relied on the use of reservoir and valve assemblies from BVMs to greatly simplify the design of emergency ventilators. 
@@ -49,7 +49,7 @@ We report bench-top measurements of the inspiratory resistance of three BVM mode
 ## Procedure
 ### Devices Tested
 Three samples of each of the following devices were tested.
-1. [Ambu Spur II Adult BVM Disposable Resuscitator (Ambu A/S Copenhagen, Denmark)](https://www.emsstuff.com/Spur2-adult-BVM-ambu/) 
+1. [Ambu Spur II Adult BVM Disposable Resuscitator (Ambu A/S Copenhagen, Denmark)](https://www.ambu.com/emergency-care-and-training/resuscitators/product/ambu-spur-ii) 
     * Sample 1 Lot#: 1000269921
     * Sample 2 Lot#: N/A
     * Sample 3 Lot#: N/A
@@ -103,9 +103,11 @@ Our testing revealed consistent and significant failure of CARE-BVM devices cons
 
 Our testing also revealed inspiratory pressure drops exceeding 5 cm H~2~O in all samples of LSR [Range 5.2-5.5 cm H~2~O] and 1 of 3 samples of Spur II [5.5 cm H~2~O] devices tested. 
 
-In addition to providing short time, manual positive-pressure ventilation, bag-valve-mask devices are frequently used to deliver high concentrations of oxygen in order pre-oxygenate patients prior to procedures that induce transient apnea, such as electroconvulsive therapy or endotracheal intubation outside of the operating room. In these situations, patients are often breathing spontaneously with no manual positive-pressure generated by the provider. The international technical standard for BVM performance reference by most regulatory agencies is *ISO 10651-4-08: Lung ventilators — Part 4: Particular requirements for operator-powered resuscitators.* In the US this standard supplanted the American Society for Testing and Materials standard *ASTM F920-93(1999): Specification for Minimum Performance and Safety Requirements for Resuscitators Intended for Use With Humans* in 2007. 
+In addition to providing short term, manual positive-pressure ventilation, bag-valve-mask devices are frequently used to deliver high concentrations of oxygen in order pre-oxygenate patients prior to procedures that induce transient apnea, such as electroconvulsive therapy or endotracheal intubation outside of the operating room. In these situations, patients are often breathing spontaneously with no manual positive-pressure generated by the provider. 
 
-The current version of the standard form 2008 (reaffirmed by the Canadian Standards Association in 2018) has three features that **render it inadequate for ensuring effectiveness of the device for pre-oxygenation of spontaneously ventilating patients**. First neither the stated requirements nor the test procedures outlined in the standard ensure the competence of the expiratory valve during negative pressure inspiration. Second, the device is only required to deliver 35% oxygen with a supplemental oxygen flow of 15 l/min or less, with the possibility of providing 85% oxygen with the use of "an attachment"[Clause 6.1]. While the standard indicates acceptable upper bounds for inspiratory and expiratory resistance, it does not explicitly state that these values should be maintained in the presence of the attachment required to deliver 85% oxygen. As a results the CARE-BVM device's pressure drop of 7.8(0.72) cm H~2~O in the presence of a PEEP valve (that would effectively block the inspiratory leak through the expiratory port) is not a clear breach of the standard. 
+The international technical standard for BVM performance reference by most regulatory agencies is *ISO 10651-4-08: Lung ventilators — Part 4: Particular requirements for operator-powered resuscitators.* In the US this standard supplanted the American Society for Testing and Materials standard *ASTM F920-93(1999): Specification for Minimum Performance and Safety Requirements for Resuscitators Intended for Use With Humans* in 2007. The current version of the standard from 2008 (reaffirmed by the Canadian Standards Association in 2018) has three features that **render it inadequate for ensuring effectiveness of the device for pre-oxygenation of spontaneously ventilating patients**. First neither the stated requirements nor the test procedures outlined in the standard ensure the competence of the expiratory valve during negative pressure inspiration. Second, the device is only required to deliver 35% oxygen with a supplemental oxygen flow of 15 l/min or less, with the possibility of providing 85% oxygen with the use of "an attachment" (i.e. the reservoir bag)[Clause 6.1]. While the standard indicates acceptable upper bounds for inspiratory and expiratory resistance, it does not explicitly state that these values should be maintained while delivering >35% oxygen. As a results the CARE-BVM device's pressure drop of 7.8(0.72) cm H~2~O in the presence of a PEEP valve (that would effectively block the inspiratory leak through the expiratory port) is not a clear breach of the standard. 
+
+Entrainment of air from the expiratory port of BVMs during spontaneous inspiration has been documented previously[1-4] but is not widely recognized by many health care providers in part due to the fact that many manufacturers voluntarily exceed the ISO standard to ensure adequate function for spontaneously breathing patients.  
 
 Our testing is limited by the sample size. Also we did not explicitly test leak flow through the expiratory port of the LSR and Spur II since their stable inspiratory resistance despite blockage of the expiratory port did not raise any suspicion of a leak. In addition the geometry of these devices made it very challenging to directly measure expiratory valve leak flow with our set-up.
 
@@ -114,6 +116,11 @@ The current international technical standard used by health regulators in Canada
 
 While some marketed devices exceed ISO requirements and are clinically acceptable for pre-oxygenation, care providers and institutions should assess these on a case by case basis. Regulatory approval conditional on satisfaction of requirements as set out by ISO 10651-4-08 does not guarantee adequate clinical performance for this use case. 
 
+## References
+1. Nimmagadda U, Salem MR, Joseph NJ, Lopez G, Megally M, Lang DJ, Wafai Y. Efficacy of preoxygenation with tidal volume breathing. Comparison of breathing systems. Anesthesiology. 2000 Sep;93(3):693–8. 
+2. Mills PJ, Baptiste J, Preston J, Barnas GM. Manual resuscitators and spontaneous ventilation--an evaluation. Crit Care Med. 1991 Nov;19(11):1425–31.
+3. Driver BE, Klein LR, Carlson K, Harrington J, Reardon RF, Prekker ME. Preoxygenation With Flush Rate Oxygen: Comparing the Nonrebreather Mask With the Bag-Valve Mask. Ann Emerg Med. 2018 Mar;71(3):381–6.
+4. Dorsch JA, Dorsch SE. 10 - Manual Resuscitators. In: Understanding Anesthesia Equipment. 5th edition. Philadelphia: Lippincott Williams & Wilkins; 2007.
 
 ## Supplementary Data
 ### Table S1: Inspiratory flow resistance by individual BVM samples
@@ -129,9 +136,9 @@ While some marketed devices exceed ISO requirements and are clinically acceptabl
 ![Figure S2C](https://i.imgur.com/4sS4KaY.jpg )
 ***Figure S2.** Set-up for measuring expiratory leak flow in CARE-BVM devices*
 
-[Video 1](https://drive.google.com/file/d/1_ppU5NFp3fZgbe4sZXgNGGjswEY7Ntem/view?usp=sharing)
+[**CARE-BVM Performance Test**](https://drive.google.com/file/d/1_ppU5NFp3fZgbe4sZXgNGGjswEY7Ntem/view?usp=sharing)
 
-***Video1:** CARE-BVM reservoir bag not deflating despite nearly 50 L/min of suction flow at the inspiratory port and only 15 L/min of oxygen line flow*
+***Video:** CARE-BVM reservoir bag not deflating despite nearly 50 L/min of suction flow at the inspiratory port and only 15 L/min of oxygen line flow*
 
 ## Authors
 Azad Mashari MD FRCPC
