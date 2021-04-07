@@ -6,21 +6,19 @@ tags: Current
 
 Project repository: https://github.com/tgh-apil/BVM-Evaluation
 
-Report (Source File): https://hackmd.io/@bag-valve-test/BJU82dW2P
+Report (Source File): https://hackmd.io/@bag-valve-test/SJGrHmqH_
 
 Data collection: Monday February 4, 2021 at Toronto General Hospital, 200 Elizabeth St, Toronto, ON M5G 2C4
 
-Reports & Revisions:
+## Reports & Revisions:
 * Original report: February 22, 2021. 
 * [February 28, 2021](https://hackmd.io/@bag-valve-test/SJQGltAMd).
 * [March 3, 2021](https://hackmd.io/@bag-valve-test/HJOq0eVQu) Incorporating corrections from Carestream related to ISO standard
 * [March 8, 2021](https://hackmd.io/@bag-valve-test/BJU82dW2P) Minor edits
-* [April 6, 2021] **(Current) Abstract Updated **
+* **April 7, 2021 (Current)** Abstract Updated; Added clarification about limitations of PEEP valve as a solution: "The addition of a one-way valve or PEEP valve, while blocking the air entrainment via the expiratory port does not necessarily improve the delivered oxygen concentration in practice since the increased inspiratory resistance through the BVM will lead to increasing air entrainment from any leaks in the mask seal and a perfect seal with a facemask is not feasible in most clinical situations."
 
 Kate Kazlovic, Vahid Anwari, Azad Mashari MD, 
 Department of Anesthesia and Pain Management, Toronto General Hospital
-
-[TOC]
 
 ## Abstract
 **Background**: Bag-valve-mask (BVM) manual resuscitators are critical equipment in acute care, used for short-term manual ventilation and for pre-oxygenation prior to short procedures or endotracheal intubation. Anecdotal clinical experience suggested significant variability in performance during spontaneous ventilation.
@@ -111,7 +109,7 @@ In addition to providing short term, manual positive-pressure ventilation, bag-v
 
 The international technical standard for BVM performance reference by most regulatory agencies is *ISO 10651-4-08: Lung ventilators — Part 4: Particular requirements for operator-powered resuscitators.* In the US this standard supplanted the American Society for Testing and Materials standard *ASTM F920-93(1999): Specification for Minimum Performance and Safety Requirements for Resuscitators Intended for Use With Humans* in 2007. The current version of the standard from 2008 (reaffirmed by the Canadian Standards Association in 2018) has three features that **render it inadequate for ensuring effectiveness of the device for pre-oxygenation of spontaneously ventilating patients**. First neither the stated requirements nor the test procedures outlined in the standard ensure the competence of the expiratory valve during negative pressure inspiration. Second, the device is only required to deliver 35% oxygen with a supplemental oxygen flow of 15 l/min or less, with the possibility of providing 85% oxygen with the use of "an attachment" (i.e. the reservoir bag)[Clause 6.1]. While the standard indicates acceptable upper bounds for inspiratory and expiratory resistance, it does not explicitly state that these values should be maintained while delivering >35% oxygen. As a results the CARE-BVM device's pressure drop of 7.8(0.72) cm H~2~O in the presence of a PEEP valve (that would effectively block the inspiratory leak through the expiratory port) is not a clear breach of the standard. 
 
-Entrainment of air from the expiratory port of BVMs during spontaneous inspiration has been documented previously[1-4] but is not widely recognized by many health care providers in part due to the fact that many manufacturers voluntarily exceed the ISO standard to ensure adequate function for spontaneously breathing patients.  
+Entrainment of air from the expiratory port of BVMs during spontaneous inspiration has been documented previously[1-4] but is not widely recognized by many health care providers in part due to the fact that many manufacturers voluntarily exceed the ISO standard to ensure adequate function for spontaneously breathing patients. **The addition of a one-way valve or PEEP valve, while blocking the air entrainment via the expiratory port does not necessarily improve the delivered oxygen concentration in practice since the increased inspiratory resistance through the BVM will lead to increasing air entrainment from any leaks in the mask seal and a perfect seal with a facemask is not feasible in most clinical situations.** 
 
 Our testing is limited by the sample size. Also we did not explicitly test leak flow through the expiratory port of the LSR and Spur II since their stable inspiratory resistance despite blockage of the expiratory port did not raise any suspicion of a leak. In addition the geometry of these devices made it very challenging to directly measure expiratory valve leak flow with our set-up.
 
